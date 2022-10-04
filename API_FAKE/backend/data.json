@@ -1,0 +1,30 @@
+{
+    "images" : [
+        {   "nombre":"UNO",
+            "path":"/imgs/img1.webp",
+            "id" : 1,
+            "desc": "something"
+    },
+        {   "nombre":"DOS",
+            "path":"/imgs/img2.webp",
+            "id":2,
+            "desc": "something"
+    },
+        {   "nombre": "TRES",
+            "path":"/imgs/img3.webp",
+            "id":3,
+            "desc": "something"
+    },
+        {   "nombre":"CUATRO",
+            "path":"/imgs/img4.webp",
+            "id":4,
+            "desc": "something"
+    },
+        {   "nombre":"CINCO",
+            "path":"/imgs/img5.webp",
+            "id":5,
+            "desc": "something"
+    }
+]
+
+}

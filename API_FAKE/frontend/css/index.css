@@ -1,0 +1,16 @@
+img{
+    width: 800px;
+    object-fit: contain;
+    margin: 1rem;
+    border-radius: 1rem;
+    animation: flipper 2s ease-in-out;
+}
+
+img:hover{
+    scale: 0.7;
+}
+
+@keyframes flipper {
+    0%{ transform: rotateY(0deg);}
+    100%{ transform: rotateY(360deg);}
+}
